@@ -1,6 +1,6 @@
 ## Django Model Managers Tutorial
 
-https://www.youtube.com/watch?v=h5ljTt7uNGg
+https://youtu.be/LzpW7OUDQ8E
 
 ## Setup
 
