@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Launch, Rocket, Core, Crew
+from .models import Launch, Rocket, Core, Crew, LaunchPad
 
 
 @admin.register(Launch)
@@ -12,3 +12,4 @@ class LaunchAdmin(admin.ModelAdmin):
 admin.site.register(Rocket)
 admin.site.register(Core)
 admin.site.register(Crew)
+admin.site.register(LaunchPad)
